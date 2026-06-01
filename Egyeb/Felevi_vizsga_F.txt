@@ -1,0 +1,12 @@
+Ének kottából:
+	Haydn: Ősz
+	Mozart: Andante
+	bicinia: 6
+kivülről népdal:
+	Virágos kenderem
+	A bubánat keserűség
+	Bújdosik az árva madár
+Kivülről műdal:
+	Mozart: Blonde áriája
+	Mozart: klarinétkvintett
+	Schubert: Pásztorkórus
